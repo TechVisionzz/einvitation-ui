@@ -1,0 +1,116 @@
+.ant-picker.ant-picker-range {
+    float: left;
+    width: -webkit-fill-available;
+}
+
+button.ant-switch,
+.floatClass,
+.addCategory {
+    float: right;
+}
+
+.ant-modal-content {
+    border-radius: 7px !important;
+}
+
+.modelTitle {
+    text-align: center;
+}
+
+form#basic {
+    background-color: white;
+    padding-bottom: 80px;
+    padding-top: 45px;
+    border-radius: 7px;
+}
+
+.ant-modal-header {
+    display: none;
+}
+
+.widthclass {
+    width: auto !important;
+}
+
+.events {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.ant-picker-calendar.ant-picker-calendar-full {
+    padding: 5px;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+.iconSize {
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+.ant-card.ant-card-hoverable {
+    border-radius: 5px;
+}
+
+.location {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+}
+
+.site-page-header-ghost-wrapper {
+    padding: 50px;
+    background-color: #f5f5f5;
+    margin-left: -65px !important;
+}
+
+span.anticon.anticon-minus-circle {
+    margin-bottom: 26px;
+}
+
+.cardStripe {
+    margin-bottom: 10px;
+}
+
+.cardStripeText {
+    margin-left: 5px;
+    cursor: pointer;
+}
+
+.searchbar {
+    margin-bottom: 10px;
+    margin-top: 30px;
+}
+
+span.anticon.anticon-close-circle {
+    color: #ff4141;
+}
+
+.menuPosition {
+    float: right !important;
+    color: brown !important;
+}
+
+.layoutColor {
+    background-color: white !important;
+    padding-left: 65px;
+}
+
+.events .ant-badge-status {
+    width: 100%;
+    overflow: hidden;
+    font-size: 12px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.notes-month {
+    font-size: 28px;
+    text-align: center;
+}
+
+.notes-month section {
+    font-size: 28px;
+}
